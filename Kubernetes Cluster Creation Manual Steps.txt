@@ -279,5 +279,7 @@ Build CI-CD and deploy the above app on Kubernetes cluster.
 8. Edit Jenkins file and correct few scripts accordingly (Take reference of employee service project).
 9. Configure webhook on your github account for the docker-spring-bootapp repository.
 10. Test the end-to-end scenerio.
+
+http://18.236.230.74:31240/account/getAllAccounts
 ------------------------------------------
 Chrome MySQL Admin
